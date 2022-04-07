@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7bf36bc1978ff591e56411aee3d662f5c4029d1c",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xd194025814fc0a080843cf99bdd8af643e867b20a620f21bd2c1e02a531107bb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Legend Sauce",
+  "SYMBOL": "LSNFT",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/legend-sauce-fexm3ngrcl",
+  "SHOW_BACKGROUND": true
+}
